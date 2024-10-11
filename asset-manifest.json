@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/counter-task/static/css/main.d221dc40.css",
+    "main.js": "/counter-task/static/js/main.bc9e9c10.js",
+    "index.html": "/counter-task/index.html",
+    "main.d221dc40.css.map": "/counter-task/static/css/main.d221dc40.css.map",
+    "main.bc9e9c10.js.map": "/counter-task/static/js/main.bc9e9c10.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.d221dc40.css",
+    "static/js/main.bc9e9c10.js"
+  ]
+}
